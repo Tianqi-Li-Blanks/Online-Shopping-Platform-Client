@@ -29,7 +29,8 @@ URL Web service endpoints - list two or more public URL endpoints that can provi
 
 https://www.programmableweb.com/api/wazala-online-store The Wazala Online Store API in REST architecture supports JSON responses to integrate eCommerce features. The API interacts with the shopping cart to purchase via Paypal or Google Checkout.
 
-https://rapidapi.com/ajmorenodelarosa/api/amazon-price1 With this API, we can get real-time information such as prices or reviews of a specific product from Amazon.
+https://rapidapi.com/logicbuilder/api/amazon-product-reviews-keywords/
+With this API, we can get real-time information such as prices or reviews of a specific product from Amazon.
 
 Final web
 
