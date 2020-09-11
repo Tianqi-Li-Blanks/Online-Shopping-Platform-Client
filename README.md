@@ -1,6 +1,6 @@
 README
 
-README Group 17 - Project Description
+README Project Description
 
 Online store application: sellers, buyer For sellers: sellers can post, edit, delete, and sell their products on the website. For buyers: buyers can search, buy, review, sort, collect, and compare the product information with the one on Amazon.
 
