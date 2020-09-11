@@ -13,7 +13,7 @@ export default class SearchRowComponent extends React.Component {
                     {this.state.product.title}
                 </Link>
             </td>
-            <td>{this.state.product.price}</td>
+            <td>{this.state.product.price.current_price}</td>
             <td className="d-none d-md-table-cell"><img src = {this.state.product.thumbnail}/></td>
 
         </tr>
