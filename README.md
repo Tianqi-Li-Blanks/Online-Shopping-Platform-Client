@@ -34,4 +34,6 @@ With this API, we can get real-time information such as prices or reviews of a s
 
 Final web
 
-HEROKU WEB: https://cs4550-20su1-group17-server.herokuapp.com/
+HEROKU WEB:
+https://cs4550-20su1-group17-server.herokuapp.com/ the API of this one is old so the search might not work 
+here is the new one: https://online-shopping-platform.herokuapp.com/
